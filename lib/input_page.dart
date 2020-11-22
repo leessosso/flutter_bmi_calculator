@@ -10,7 +10,7 @@ class _InputPageState extends State<InputPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('비만도 계산기'),
+        title: Text('비만도 계산기 pc에서'),
       ),
       body: Center(
         child: Text('Body Text'),
